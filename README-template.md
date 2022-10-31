@@ -1,6 +1,42 @@
+Home
+New
+Popular
+Trending
+Categories
+
+The Bright Future of Web 3.0?
+
+We dive into the next evolution of the web that claims to put the power of the platforms back into the hands of the people.
+But is it really fulfilling its promise?
+
+Read more
+
+New
+
+Hydrogen VS Electric Cars
+Will hydrogen-fueled cars ever catch up to EVs?
+
+The Downsides of AI Artistry
+What are the possible adverse effects of on-demand AI image generation?
+
+Is VC Funding Drying Up?
+Private funding by VC firms is down 50% YOY. We take a look at what that means.
+
+01
+Reviving Retro PCs
+What happens when old PCs are given modern upgrades?
+
+02
+Top 10 Laptops of 2022
+Our best picks for various needs and budgets.
+
+03
+The Growth of Gaming
+How the pandemic has sparked fresh opportunities.
+
 # Frontend Mentor - News homepage solution
 
-This is a solution to the [News homepage challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [News homepage challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -34,7 +70,7 @@ Users should be able to:
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
+Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it.
 
 Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
 
@@ -69,15 +105,17 @@ To see how you can add code snippets, see below:
 ```html
 <h1>Some HTML code I'm proud of</h1>
 ```
+
 ```css
 .proud-of-this-css {
   color: papayawhip;
 }
 ```
+
 ```js
 const proudOfThisFunc = () => {
-  console.log('🎉')
-}
+  console.log("🎉");
+};
 ```
 
 If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
