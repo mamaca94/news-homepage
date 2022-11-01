@@ -22,7 +22,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin: 2rem 0 2rem 0;
+  margin: 2rem 0 4rem 0;
 }
 
 .main-nav-list {
@@ -127,7 +127,7 @@ body {
 }
 
 .news {
-  border-bottom: 1px solid rgba(199, 199, 199, 0.9);
+  border-bottom: 1px solid rgba(199, 199, 199, 0.2);
 }
 
 .news:last-child {
@@ -182,7 +182,7 @@ body {
   /* width: 15rem;
   height: 15rem; */
   /* height: 15rem; */
-  width: 15rem;
+  width: 13rem;
 }
 
 .topic-number {
@@ -196,6 +196,15 @@ body {
   color: hsl(240, 100%, 5%);
 }
 
+.topic-text-last {
+  /* color: rgba(199, 199, 199, 0.9);
+   */
+  color: hsl(236, 13%, 42%);
+  letter-spacing: 0.05rem;
+  line-height: 1.6;
+  font-size: 1.6rem;
+}
+
 .flex {
   display: flex;
   gap: 1.8rem;
@@ -204,6 +213,6 @@ body {
 .flex-column {
   display: flex;
   flex-direction: column;
-  gap: 1.2rem;
+  gap: 1.8rem;
   /* padding-top: 1.2rem; */
 }
